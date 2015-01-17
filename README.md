@@ -2,14 +2,10 @@
 
 A map of the tokens used by the pygments syntax highlighter
 
-## What is pygments?
-
 [Pygments](http://pygments.org/) is a syntax highlighter that
 supports over 300 programming languages.  To use pygments in node,
 check out [pygmentize-bundled](https://github.com/rvagg/node-pygmentize-bundled) or
 [other options on npm](https://www.npmjs.com/search?q=pygments).
-
-## What is pygments-tokens?
 
 Given this JavaScript string:
 
@@ -31,8 +27,6 @@ pygments will generate this HTML:
 ```
 
 See the `kd`, `nx`, `o` classes above? This package exports a map of [all the tokens used by pygments](http://pygments.org/docs/tokens/).
-
-## What can I use it for?
 
 Use it to generate and/or validate pygments CSS stylesheets, or to create
 a whitelist of allowable CSS class names.
