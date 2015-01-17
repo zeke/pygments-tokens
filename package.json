@@ -1,0 +1,26 @@
+{
+  "name": "pygments-tokens",
+  "version": "1.0.0",
+  "description": "A map of the tokens used by the pygments syntax highlighter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo nope"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zeke/pygments-tokens.git"
+  },
+  "keywords": [
+    "pygments",
+    "syntax",
+    "highlighting",
+    "code",
+    "tokens"
+  ],
+  "author": "Zeke Sikelianos <zeke@sikelianos.com> (http://zeke.sikelianos.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zeke/pygments-tokens/issues"
+  },
+  "homepage": "https://github.com/zeke/pygments-tokens"
+}
