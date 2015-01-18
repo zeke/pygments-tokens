@@ -1,6 +1,6 @@
 {
   "name": "pygments-tokens",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A map of the tokens used by the pygments syntax highlighter",
   "main": "index.js",
   "scripts": {
